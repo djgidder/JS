@@ -1,3 +1,5 @@
-function dgAlert(){
-alert("this is an alert");
-}
+		<script>
+			$(document).ready(function(){
+			alert("this is a test");
+    }
+		</script>
