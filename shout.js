@@ -1,3 +1,5 @@
-
-			alert("this is a test");
-
+var DG = {
+	dgAlert: function(){
+		alert("This is a test!");
+	}
+}
