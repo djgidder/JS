@@ -1,3 +1,3 @@
-<script>
-alert("this is an alert")
-</script>
+function dgAlert(){
+alert("this is an alert");
+}
